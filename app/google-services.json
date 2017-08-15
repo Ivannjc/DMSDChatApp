@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "474401490231",
+    "firebase_url": "https://fir-student-app-2-caf7f.firebaseio.com",
+    "project_id": "fir-student-app-2-caf7f",
+    "storage_bucket": "fir-student-app-2-caf7f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474401490231:android:7c2542a942046ff9",
+        "android_client_info": {
+          "package_name": "sg.edu.rp.c346.dmsdchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474401490231-97ks1sgku396q84gofpo6s4v39qifrck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSwBiVpAUtxHDsGEbZZ2UieWLkjIvy1MQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
